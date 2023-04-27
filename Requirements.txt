@@ -1,0 +1,2 @@
+Install the required node.js modules :
+body-parser cors express helmet morgan
